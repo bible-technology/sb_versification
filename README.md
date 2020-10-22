@@ -1,5 +1,6 @@
-![CI](https://github.com/bible-technology/sb_minimalTemplate/workflows/CI/badge.svg?branch=master)
+![CI](https://github.com/bible-technology/sb_versification/workflows/CI/badge.svg?branch=master)
 
 
 # sb_minimalTemplate
-Minimal Scripture Burrito Template
+
+Test versification Scripture Burrito
