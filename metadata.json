@@ -10,29 +10,6 @@
     "comments": ["Examples using Copenhagen Alliance org_vrs"],
     "defaultLanguage": "en"
   },
-  "idServers": {
-    "ptx": {
-      "id": "http://www.paratext.org",
-      "name": {
-        "en": "Paratext application"
-      }
-    }
-  },
-  "identification": {
-    "idServer": "ptx",
-    "name": {
-      "eng": "Original Versification"
-    },
-    "description": {
-      "eng": "The versification scheme known as org in Paratext"
-    },
-    "systemId": {
-      "foo": {
-        "id": "ptx::123",
-        "revision": "1"
-      }
-    }
-  },
   "confidentiality": {
     "metadata": "unrestricted",
     "ingredients": "unrestricted"
