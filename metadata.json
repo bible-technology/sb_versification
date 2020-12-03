@@ -7,28 +7,28 @@
       "softwareName": "SB01Import",
       "softwareVersion": "0.0.0"
     },
-    "comments": ["Examples using Copenhagen Alliance org_vrs"],
+    "comments": ["Example using Copenhagen Alliance org_vrs"],
     "defaultLanguage": "en"
   },
   "idAuthorities": {
-    "ptx": {
-      "id": "http://www.paratext.org",
+    "ca": {
+      "id": "http://copenhagen-alliance.org",
       "name": {
-        "en": "Paratext application"
+        "en": "Copenhagen Alliance"
       }
     }
   },
   "identification": {
-    "idAuthority": "ptx",
+    "idAuthority": "ca",
     "name": {
       "eng": "Original Versification"
     },
     "description": {
-      "eng": "The versification scheme known as org in Paratext"
+      "eng": "The versification scheme known as org"
     },
     "systemId": {
       "ptx": {
-        "id": "123",
+        "id": "org",
         "revision": "1"
       }
     }
